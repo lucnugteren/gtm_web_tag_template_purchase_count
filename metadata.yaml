@@ -1,5 +1,5 @@
 homepage: 'https://lucnugteren.com/'
-documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_user_id'
+documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_purchase_count'
 versions:
   - sha: 1f7e6a2fc539d8abc8faa9d9159e09c51595d4d8
     changeNotes: Initial release.  
