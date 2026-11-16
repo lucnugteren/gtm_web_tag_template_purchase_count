@@ -1,5 +1,7 @@
 homepage: 'https://lucnugteren.com/'
 documentation: 'https://github.com/lucnugteren/gtm_web_tag_template_purchase_count'
 versions:
+  - sha: f56f6964975f43d1f1943ed89b466f07dfe29a1a
+    changeNotes: Categories limited to three.
   - sha: 1f7e6a2fc539d8abc8faa9d9159e09c51595d4d8
     changeNotes: Initial release.  
