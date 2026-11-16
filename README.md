@@ -26,5 +26,6 @@ The template has no fields. Cookie name, one-year lifetime and `SameSite=Lax` ar
 - [Shopify Custom Pixel](https://github.com/lucnugteren/shopify_custom_pixel) for a GTM dataLayer in Shopify checkout.
 - [User ID tag template](https://github.com/lucnugteren/gtm_web_tag_template_user_id) for external ID matching in Meta.
 - [Restore GCLID tag template](https://github.com/lucnugteren/gtm_web_tag_template_restore_gclid) for Safari-stripped click IDs.
+- [Profit Calculation variable template](https://github.com/lucnugteren/gtm_server_variable_template_profit) for more accurate profit tracking in server GTM.
 
 More at [lucnugteren.com/resources](https://lucnugteren.com/resources).
