@@ -15,11 +15,9 @@ ___INFO___
   "securityGroups": [],
   "displayName": "Purchase Count",
   "categories": [
-    "ADVERTISING",
-    "ANALYTICS",
     "CONVERSIONS",
-    "MARKETING",
-    "REMARKETING"
+    "ADVERTISING",
+    "ANALYTICS"
   ],
   "brand": {
     "id": "github.com/lucnugteren/",
